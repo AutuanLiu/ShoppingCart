@@ -7,7 +7,7 @@ public class LogIO
     { 
         try 
         	{ 
-             OutputStreamWriter write = new OutputStreamWriter(new FileOutputStream(log),"gbk"); 
+             OutputStreamWriter write = new OutputStreamWriter(new FileOutputStream(log),"utf-8"); 
              if (!log.exists()) //如果不存在文件对象，则创建之
              { 
                 log.createNewFile(); 
@@ -30,7 +30,7 @@ public class LogIO
         	{   
              if(log.isFile()&&log.exists())
             	{ 
-                	InputStreamReader read = new InputStreamReader(new FileInputStream(log),"gbk"); 
+                	InputStreamReader read = new InputStreamReader(new FileInputStream(log),"utf-8"); 
                 	BufferedReader reader=new BufferedReader(read); 
                 	//读取文件数据
                 	String line; 
