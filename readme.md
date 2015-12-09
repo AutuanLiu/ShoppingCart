@@ -65,21 +65,21 @@
 >
 >- - 进入解压后的文件夹中的Shop子文件夹，双击`Shop.jar`， 即可正确运行，前提是你的电脑中有安装配置JDK。
  首先，弹出主窗口，显示商店的商品信息
-![](https://github.com/AutuanLiu/Program/blob/master/截图/主窗口.png)
+![](https://github.com/AutuanLiu/Program/blob/master/%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%AA%97%E5%8F%A3.PNG)
 >下方提示窗口显示欢迎信息。
 向文本框中输入购买的数量，不购买则默认为0，不做修改，点击“加入购物车”按钮，即可将顾客的购买信息加入购物车，同时在当前目录下，生成  recoed.txt  文件，用于记录顾客的购买信息，在下方的提示窗口显示“加入购物车成功”，窗口的最下方中部标签处显示本次消费总额。 
-![](https://github.com/AutuanLiu/Program/blob/master/截图/确定.png)	
+![](https://github.com/AutuanLiu/Program/blob/master/%E6%88%AA%E5%9B%BE/确定.png)	
 >*注意：购买数量栏不可为空，否则会提示“输入有误”*
 >
-![](https://github.com/AutuanLiu/Program/blob/master/截图/错误.png)
+![](https://github.com/AutuanLiu/Program/blob/master/%E6%88%AA%E5%9B%BE/错误.png)
 >
 >+ - 点击“查看购物车”按钮，即可弹出购物车，同时，购买数量处的文本框变为不可编辑状态，若点击“修改购物车”按钮，则各个文本框重新获得编辑权限。
-![](https://github.com/AutuanLiu/Program/blob/master/截图/购物车.png)
+![](https://github.com/AutuanLiu/Program/blob/master/%E6%88%AA%E5%9B%BE/购物车.png)
 >窗口的左侧显示，顾客的购买时间，右侧显示顾客的购买物品名字、数量及消费总额。也可以通过查看当前目录下的的record.txt 文件查看购物记录。
 点击购物车窗口右侧的“确定”按钮，文本域内显示提示文字。
 
  >+ - 若在主窗口点击“确认付款”按钮即可弹出 收银台 窗口，提示付款成功。
-![](https://github.com/AutuanLiu/Program/blob/master/截图/收银台.png)
+![](https://github.com/AutuanLiu/Program/blob/master/%E6%88%AA%E5%9B%BE/收银台.png)
 >关闭，两个副窗口不会关闭主窗口，但是，当关闭主窗口是，会结束程序的运行。
 >
 >+ （2）
