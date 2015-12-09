@@ -9,7 +9,7 @@
 1. `ShoppingCart`	模拟购物车
 
 ##二、设计思路
-     ![](http://github.com/AutuanLiu/Program/设计思路.png)
+![](http://github.com/AutuanLiu/Program/设计思路.png)
 ##三、个性化设置
 >- 主窗口为Market窗口，位于屏幕的左上角，Shoppingcart窗口为副窗口，则其位于主窗口的右侧，并与主窗口对齐，另一个副窗口为Casher窗口，其位于主窗口的下方，并与主窗口对齐；
 >
