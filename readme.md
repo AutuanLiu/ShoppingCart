@@ -78,5 +78,5 @@
 3.使用IDE——eclipse，将Class下的源码复制到eclipse下的某一个project内，并执行，运行过程同（1）。
 4.打开cmd，进入解压后的文件夹Shop子文件夹，并输入 java -jar Shop.jar，即可运行程序，运行过程同（1）。
 
-                                                                        **date**  
-                                                                        **2015/11/25** 
+**date**  
+ **2015/11/25** 
